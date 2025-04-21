@@ -5,10 +5,9 @@ A Global Game Jam 2025 foi um evento mundial de programação, realizado de 20 a
 
 # 🫧 Floating Bubbles
 Estoure o máximo de bolhas que puder antes do cronômetro acabar e veja sua pontuação final!
-Use as teclas A e D do teclado para mover o canhão e mirar com precisão.
-Desafie seus reflexos e divirta-se!
+Use as teclas "A" e "D" do teclado para mover o canhão e mirar com precisão.
 
->⚠️ Atenção: Este jogo foi desenvolvido exclusivamente para computadores e não possui responsividade, portanto pode não funcionar corretamente em dispositivos móveis >ou telas pequenas.
+>⚠️ Atenção: Este jogo foi desenvolvido exclusivamente para computadores e não possui responsividade, portanto pode não funcionar corretamente em dispositivos móveis ou telas pequenas.
 
 <br>
 
