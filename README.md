@@ -10,6 +10,8 @@ Desafie seus reflexos e divirta-se!
 
 >⚠️ Atenção: Este jogo foi desenvolvido exclusivamente para computadores e não possui responsividade, portanto pode não funcionar corretamente em dispositivos móveis >ou telas pequenas.
 
-<p align="center">
-    <img width="350px" src="floatingBubbles.png">
+<br>
+
+<p align="left">
+    <img width="400px" src="floatingBubbles.png">
 </p>
